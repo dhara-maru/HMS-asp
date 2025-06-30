@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asplabs\\HospitalManagementDhara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\appointment\\addappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\appointment\\addappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\patient\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\patient\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\department\\adddepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\department\\adddepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\department\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\department\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\doctor\\adddoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\doctor\\adddoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\doctor\\doctorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\doctor\\doctorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\appointment\\appointmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\appointment\\appointmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\doctor\\doctordepartmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\doctor\\doctordepartmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\doctor\\adddoctordepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\doctor\\adddoctordepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\views\\patient\\patientlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\views\\patient\\patientlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\wwwroot\\assets\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\wwwroot\\assets\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|e:\\asplabs\\hospitalmanagementdhara\\hospitalmanagementdhara\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7806104B-98F6-4F03-810B-A9430C2D4452}|HospitalManagementDhara\\HospitalManagementDhara.csproj|solutionrelative:hospitalmanagementdhara\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwJcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T03:29:30.584Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Home\\Signup.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Home\\Signup.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Home\\Signup.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Home\\Signup.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:33:12.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentList.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Department\\DepartmentList.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Department\\DepartmentList.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Department\\DepartmentList.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Department\\DepartmentList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:22:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorList.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\DoctorList.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Doctor\\DoctorList.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\DoctorList.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Doctor\\DoctorList.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T06:57:55.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddDoctor.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\AddDoctor.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Doctor\\AddDoctor.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\AddDoctor.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Doctor\\AddDoctor.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T07:27:36.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAppointment.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Appointment\\AddAppointment.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Appointment\\AddAppointment.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Appointment\\AddAppointment.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Appointment\\AddAppointment.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:42:24.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPatient.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Patient\\AddPatient.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Patient\\AddPatient.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Patient\\AddPatient.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Patient\\AddPatient.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T07:40:36.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDepartment.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Department\\AddDepartment.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Department\\AddDepartment.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Department\\AddDepartment.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Department\\AddDepartment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:22:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HospitalManagementDhara\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:21:05.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddDoctorDepartment.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\AddDoctorDepartment.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Doctor\\AddDoctorDepartment.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\AddDoctorDepartment.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Doctor\\AddDoctorDepartment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:21:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentList.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Appointment\\AppointmentList.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Appointment\\AppointmentList.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Appointment\\AppointmentList.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Appointment\\AppointmentList.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:42:41.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorDepartmentList.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\DoctorDepartmentList.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Doctor\\DoctorDepartmentList.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Doctor\\DoctorDepartmentList.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Doctor\\DoctorDepartmentList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:22:16.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T05:18:58.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Controllers\\AppointmentController.cs",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HospitalManagementDhara\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:41:00.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientList.cshtml",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Patient\\PatientList.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Views\\Patient\\PatientList.cshtml",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Views\\Patient\\PatientList.cshtml",
+              "RelativeToolTip": "HospitalManagementDhara\\Views\\Patient\\PatientList.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T07:52:47.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "scripts.js",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\wwwroot\\assets\\js\\scripts.js",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\wwwroot\\assets\\js\\scripts.js",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\wwwroot\\assets\\js\\scripts.js",
+              "RelativeToolTip": "HospitalManagementDhara\\wwwroot\\assets\\js\\scripts.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-30T04:38:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalManagementDhara\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:18:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Controllers\\DoctorController.cs",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalManagementDhara\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:57:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\Controllers\\PatientController.cs",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalManagementDhara\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:39:50.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "HospitalManagementDhara\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "E:\\asplabs\\HospitalManagementDhara\\HospitalManagementDhara\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "HospitalManagementDhara\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACITAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-30T03:50:28.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
